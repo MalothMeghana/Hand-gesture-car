@@ -1,0 +1,7 @@
+1.Arduino Uno
+2.Arduino Nano
+3.L298N motor driver
+4.MPU6050
+5.Nrf24l01
+6.Module+adapter
+7.DCmotor
