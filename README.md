@@ -84,4 +84,10 @@ The MPU6050 sensor detects hand tilt using X (ax) and Y (ay) accelerometer value
 
 - `Wire.h` – I2C communication for sensors  
 - `MPU6050.h` – Motion sensing with MPU6050  
-- `RF24.h` – Wireless communication with nRF24L01  
+- `RF24.h` – Wireless communication with nRF24L01
+
+## 🛠️ Tools & IDE Used
+
+- **Arduino IDE** – Used to write, compile, and upload code to Arduino UNO and Nano boards  
+- **Windows OS** – For development and testing  
+- **Git & GitHub** – For version control and project documentation   
